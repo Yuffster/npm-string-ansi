@@ -1,0 +1,11 @@
+{
+	"name":"String.color",
+	"description":"Provides a .color extension to Strings.",
+	"version":"0.8.0",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/yuffster/npm-string-ansi"
+	},
+	"dependencies": {},
+	"main": "string-ansi.js"
+}
